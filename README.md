@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jaíne Doerzbacher 👋
 
 - 🔭 Hoje eu trabalho com back-end
-- 🌱 Estudando Java
+- 🌱 Estudando Java e Python
 - 💬 Contate-me no e-mail: doerzbacherjaine@gmail.com
 
 
